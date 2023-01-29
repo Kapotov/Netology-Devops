@@ -8,3 +8,5 @@ build/
 # Crash log files
 crash.log
 crash.*.log
+# исключить файл TODO в корневой директории
+/TODO
